@@ -10,7 +10,7 @@ This Application is a Demo project to upload a document with identity.
 5. CSS Framework - BootStrap 4.3
 6. Database - SQL Server (localDB)
 7. Code Editor - Visual Studio 2019 
-8. Authentication using JSON WebTokens (jwt) & ASP.NET Core Identity 
+8. Authentication using JSON WebTokens (JWT) & ASP.NET Core Identity 
 
 ## Set-Up
 1. Download the entire codebase to your local system.
