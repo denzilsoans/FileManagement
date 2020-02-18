@@ -1,0 +1,8 @@
+<app-nav-menu [isUserLoggedIn]="true"></app-nav-menu>
+<h2>File Upload</h2>
+<input #file [(ngModel)]="FileComp" type="file" multiple (change)="upload(file.files)" />
+<br />
+
+<span style="font-weight:bold;color:green;" *ngIf="message">
+  {{message}}
+</span>
